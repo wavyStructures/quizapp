@@ -1,0 +1,2 @@
+let array = [];
+let solutions = [];
